@@ -13,6 +13,7 @@
 - https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew
 - https://www.ruby-lang.org/en/documentation/installation/ (ugrade ruby)
 
-## Preview Cayman Theme
+## Preview Cayman Theme and Customize generated CSS & HTML 
 - https://pages-themes.github.io/cayman
 - https://github.com/pages-themes/cayman
+- https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme#customizing-your-jekyll-themes-css
