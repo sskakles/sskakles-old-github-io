@@ -14,5 +14,5 @@
 - https://www.ruby-lang.org/en/documentation/installation/ (ugrade ruby)
 
 ## Preview Cayman Theme
-- https://pages-themes.github.io/cayman/
+- https://pages-themes.github.io/cayman
 - https://github.com/pages-themes/cayman
