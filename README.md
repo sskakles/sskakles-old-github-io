@@ -12,3 +12,7 @@
 - https://brew.sh/
 - https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew
 - https://www.ruby-lang.org/en/documentation/installation/ (ugrade ruby)
+
+## Preview Cayman Theme
+- https://pages-themes.github.io/cayman
+- https://github.com/pages-themes/cayman
