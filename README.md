@@ -7,11 +7,13 @@
 
 ## Ruby stuff
 - https://stackoverflow.com/questions/38194032/how-to-update-ruby-version-2-0-0-to-the-latest-version-in-mac-osx-yosemite
+- https://jekyllrb.com/docs/installation/macos/ (install jekyll on mac os)
 
 ## HomeBrew shit 
 - https://brew.sh/
 - https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew
 - https://www.ruby-lang.org/en/documentation/installation/ (ugrade ruby)
+- https://jekyllrb.com/docs/installation/macos/ (how to install ruby with homebrew)
 
 ## Preview Cayman Theme and Customize generated CSS & HTML 
 - https://pages-themes.github.io/cayman
