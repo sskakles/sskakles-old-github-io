@@ -8,7 +8,7 @@
 ## Ruby stuff
 - https://stackoverflow.com/questions/38194032/how-to-update-ruby-version-2-0-0-to-the-latest-version-in-mac-osx-yosemite
 
-## HomeBrew shit (updating Ruby, etc,)
+## HomeBrew shit 
 - https://brew.sh/
 - https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew
 - https://www.ruby-lang.org/en/documentation/installation/ (ugrade ruby)
