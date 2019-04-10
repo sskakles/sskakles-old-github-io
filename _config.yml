@@ -1,1 +1,10 @@
+#theme: jekyll-theme-cayman
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+#how in the fuck is this being set to false when running on non-local server?
+#title: Cayman theme
+#description: Cayman is a clean, responsive theme for GitHub Pages.
+#show_downloads: true
+#google_analytics:
+#theme: jekyll-theme-cayman
